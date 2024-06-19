@@ -21,7 +21,7 @@ This repository contains a tool for monitoring competitors' activities by collec
 
 ## 🛠 Requirements
 
-- Python 3.7+
+- Python 3.8+
 - Browse.ai API key
 - OpenAI API key
 - SMTP server credentials
